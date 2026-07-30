@@ -1,5 +1,4 @@
 name = "coffee-web"
-main = ".open-next/worker.js"
 compatibility_date = "2026-07-30"
 
 pages_build_output_dir = ".open-next"
