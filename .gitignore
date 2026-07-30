@@ -1,7 +1,5 @@
 node_modules
 .next
-.env.development.local
 .env.local
-.env.production
 .DS_Store
-.open-next
+
